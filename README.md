@@ -7,6 +7,8 @@ End-to-end data-analysis of Online sales data  Using Excel , MYSQL , PowerBi to 
 The objective of this project is to address a 15% year-over-year decline in regional sales by identifying underperforming product categories and customer segments. This analysis provides data-driven recommendations to optimize inventory and marketing spend.
 🛠️ Tech Stack & Skills
 
+## My FILES IMAGE
+![](tryry56.PNG)
     Data Extraction: SQL (Complex JOINs, Window Functions, CTEs)
     Data Cleaning: Python (Pandas for handling missing values and data types)
     Visualization: Tableau/Power BI (Interactive dashboards for stakeholder reporting)
