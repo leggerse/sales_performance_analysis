@@ -8,7 +8,8 @@ The objective of this project is to address a 15% year-over-year decline in regi
 🛠️ Tech Stack & Skills
 
 ## My FILES IMAGE
-![](UMER-dataanalystproject.PNG)
+![](IMAGES/UMER-dataanalystproject.PNG)
+
 
 
 
