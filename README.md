@@ -33,13 +33,13 @@ The objective of this project is to address a 15% year-over-year decline in regi
 ---
 
 <!-- PROJECT LOGO -->
-
+![](IMAGES/Untitled.png)
 <br />
 
 <div align="center">
 
-<a href="https://github.com/your_username/data-analyst-portfolio">
-IMAGES/Untitled.png
+<a href="[https://github.com/leggerse/sales_performance_analysis]">
+
 
 <img src="images/logo.png" alt="Logo" width="90" height="90">
 
@@ -53,7 +53,8 @@ A comprehensive portfolio showcasing real-world data analysis projects, dashboar
 
 <br />
 
-<a href="https://github.com/your_username/data-analyst-portfolio"><strong>Explore the Projects »</strong></a>
+<a href="https://github.com/leggerse/sales_performance_analysis"><strong>Explore the Projects »</strong></a>
+
 
 <br />
 
@@ -63,11 +64,11 @@ A comprehensive portfolio showcasing real-world data analysis projects, dashboar
 
 ·
 
-<a href="https://github.com/your_username/data-analyst-portfolio/issues">Report Issue</a>
+<a href="https://github.com/leggerse/sales_performance_analysis/issues">Report Issue</a>
 
 ·
 
-<a href="https://github.com/your_username/data-analyst-portfolio/issues">Request Feature</a>
+<a href="https://github.com/leggerse/sales_performance_analysis/issues">Request Feature</a>
 
 </p>
 
